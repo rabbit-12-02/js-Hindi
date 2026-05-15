@@ -1,2 +1,0 @@
-console.log("Vishu Singh is the best");
-
